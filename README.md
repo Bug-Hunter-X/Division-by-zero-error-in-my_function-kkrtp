@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon Elixir code error: division by zero.  The `my_function` in `bug.ex` demonstrates the issue, while `bugSolution.ex` provides a corrected version. The error occurs when the input `x` is zero or negative, leading to an unexpected crash. The solution uses a `case` statement to handle these edge cases.
